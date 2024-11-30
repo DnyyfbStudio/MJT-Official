@@ -1,22 +1,14 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
+import { docsConfig, head, themeConfig } from "./base";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/",
-  title: "梦和远方",
-  description: "梦和远方的博客",
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    logo: "/v-logo.png",
-    siteTitle: "二级标题，会替换一级标题",
-    footer: {
-      message: "Released under the MIT License.",
-      copyright: "Copyright © 2023-present 梦和远方",
-    },
+    /* 文档配置 */
+    ...docsConfig,
+    /* 标头配置 */
+    head,
+    /* 主题配置 */
+    themeConfig,
+});
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
 
