@@ -1,5 +1,4 @@
 import type { DefaultTheme } from "vitepress";
-import './fonts.css';
 export const themeConfig: DefaultTheme.Config = {
     // https://vitepress.dev/reference/default-theme-config
     footer: {
