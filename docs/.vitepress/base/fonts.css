@@ -1,17 +1,17 @@
 @font-face {
   font-family: "HarmonyOSHans-Medium";
-  src: url("/fonts/HarmonyOSHans-Medium.woff2") format("woff2"),
-    url("/fonts/HarmonyOSHans-Medium.woff") format("woff");
+  src: url("../fonts/HarmonyOSHans-Medium.woff2") format("woff2"),
+    url("../fonts/HarmonyOSHans-Medium.woff") format("woff");
 }
 @font-face {
   font-family: "HarmonyOSHans-Regular";
-  src: url("/fonts/HarmonyOSHans-Regular.woff2") format("woff2"),
-    url("/fonts/HarmonyOSHans-Regular.woff") format("woff");
+  src: url("../fonts/HarmonyOSHans-Regular.woff2") format("woff2"),
+    url("../fonts/HarmonyOSHans-Regular.woff") format("woff");
 }
 @font-face {
   font-family: "HarmonyOSHans-Light";
-  src: url("/fonts/HarmonyOSHans-Light.woff2") format("woff2"),
-    url("/fonts/HarmonyOSHans-Light.woff") format("woff");
+  src: url("../fonts/HarmonyOSHans-Light.woff2") format("woff2"),
+    url("../fonts/HarmonyOSHans-Light.woff") format("woff");
 }
 :root {
   --vp-font-family-base:"HarmonyOSHans-Light", sans-serif; /* normal text font */
