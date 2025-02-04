@@ -2,7 +2,7 @@ import type { DefaultTheme } from "vitepress";
 export const themeConfig: DefaultTheme.Config = {
     // https://vitepress.dev/reference/default-theme-config
     footer: {
-        message: "Released under the MIT License.",
+        message: "这里正在测试。",
         copyright: "Copyright ©2018-2025 幻菌科技 All Right Reserved.",
     },
     // logo
@@ -12,13 +12,12 @@ export const themeConfig: DefaultTheme.Config = {
     // i18n路由，false切换首页，true内容切换
     i18nRouting: true,
     // 搜索配置（二选一）
-    search: {
+    /* search: {
         // 本地离线搜索
         provider: "local",
         // 多语言搜索配置
         options: {
             locales: {
-                /* 默认语言 */
                 "zh-CN": {
                     translations: {
                         button: {
@@ -58,6 +57,8 @@ export const themeConfig: DefaultTheme.Config = {
             },
         },
     },
+     */
+
     // 社交链接
     socialLinks: [
         { icon: "github", link: "https://github.com/vuejs/vitepress" },

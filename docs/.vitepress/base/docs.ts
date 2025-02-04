@@ -1,8 +1,7 @@
-import { enUSConfig, zhCNConfig } from "../configs";
 
 export const docsConfig = {
     base: "/",
-    title: "幻菌科技 - 不断创新领域、探索未来，开拓奇妙体验，为推动科技进步而战。",
+    title: "幻菌科技",
     description: "幻菌科技官方网站",
     lang: "zh-CN",
     lastUpdated: true,

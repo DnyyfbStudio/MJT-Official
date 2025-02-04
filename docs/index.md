@@ -4,9 +4,9 @@
 layout: home
 
 hero:
-  name: 梦和远方
-  text: 梦和远方的博客
-  tagline: 简单介绍一下，主界面
+  name: 幻菌科技
+  text: 官方网站
+  tagline: 不断创新领域、探索未来，开拓奇妙体验，为推动科技进步而战。
   image:
     src: /v-logo.png
     alt: icenet
