@@ -8,8 +8,8 @@ hero:
   text: 官方网站
   tagline: 不断创新领域、探索未来，开拓奇妙体验，为推动科技进步而战。
   image:
-    src: /v-logo.png
-    alt: icenet
+    src: https://cdn.magicjun.cn:32323/MJT/logo.png
+    alt: 幻菌科技的Logo
   actions:
     - theme: brand
       text: 快来快来
