@@ -2,7 +2,7 @@ import type { DefaultTheme } from "vitepress";
 export const themeConfig: DefaultTheme.Config = {
     // https://vitepress.dev/reference/default-theme-config
     footer: {
-        message: "这里正在测试。",
+        message: "Powered by 幻菌科技方舟智慧服务",
         copyright: "Copyright ©2018-2025 幻菌科技 All Right Reserved.",
     },
     // logo
@@ -61,7 +61,7 @@ export const themeConfig: DefaultTheme.Config = {
 
     // 社交链接
     socialLinks: [
-        { icon: "github", link: "https://github.com/vuejs/vitepress" },
+        { icon: "github", link: "https://github.com/DnyyfbStudio" },
     ],
 };
 

@@ -53,7 +53,7 @@ features:
     link: https://wiki.xinghecity.cn/
   - icon: <img src="https://cdn.magicjun.cn:32323/MJT/baidu.ico">
     title: 百毒
-    details: 百毒一下，你就懵圈()
+    details: 百毒亿下，你就懵圈()
     link: https://baidu.magicjun.cn/
 
 ---
