@@ -19,11 +19,11 @@ hero:
       #link: /en-US/applet-docs/applet-docs
 
 features:
-  - icon: https://cdn.magicjun.cn:32323/MJT/ark.svg
+  - icon: <img src="https://cdn.magicjun.cn:32323/MJT/ark.svg">
     title: 方舟智慧服务
     details: 幻菌科技核心工作平台
     link: https://ark.magicjun.cn:59565/
-  - icon: https://cdn.magicjun.cn:32323/MJT/MJTDIST-favicon.ico
+  - icon: <img src="https://cdn.magicjun.cn:32323/MJT/MJTDIST-favicon.ico">
     title: 智分系统
     details: 文件、广告一站式分发平台
     link: https://cdn.magicjun.cn:32323/
@@ -39,11 +39,11 @@ features:
     title: 智舟生态体系文档
     details: 幻菌科技智舟生态体系技术文档
     link: https://wiki.magicjun.cn/
-  - icon: https://cdn.magicjun.cn:32323/xhc/logo.ico
+  - icon: <img src="https://cdn.magicjun.cn:32323/xhc/logo.ico">
     title: 星河城官网(服务平台)
     details: 星河城服务器官方网站
     link: https://xinghecity.cn/
-  - icon: https://cdn.magicjun.cn:32323/xhc/icon.ico
+  - icon: <img src="https://cdn.magicjun.cn:32323/xhc/icon.ico">
     title: 星河城智联中心(服务中心)
     details: 提供玩家/成员端便捷服务
     link: https://api.xinghecity.cn:55656/
@@ -51,7 +51,7 @@ features:
     title: 星河城服务链文档
     details: 星河城服务链技术文档
     link: https://wiki.xinghecity.cn/
-  - icon: https://cdn.magicjun.cn:32323/MJT/baidu.ico
+  - icon: <img src="https://cdn.magicjun.cn:32323/MJT/baidu.ico">
     title: 百毒
     details: 百毒一下，你就懵圈()
     link: https://baidu.magicjun.cn/
