@@ -6,7 +6,7 @@ export const themeConfig: DefaultTheme.Config = {
         copyright: "Copyright ©2018-2025 幻菌科技 All Right Reserved.",
     },
     // logo
-    logo: "/v-logo.png",
+    logo: "https://cdn.magicjun.cn:32323/MJT/logo.svg",
     // 首页
     // logoLink: "/",
     // i18n路由，false切换首页，true内容切换
