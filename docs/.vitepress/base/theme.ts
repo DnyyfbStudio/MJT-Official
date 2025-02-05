@@ -2,7 +2,7 @@ import type { DefaultTheme } from "vitepress";
 export const themeConfig: DefaultTheme.Config = {
     // https://vitepress.dev/reference/default-theme-config
     footer: {
-        message: "<a href='https://icp.gov.moe/?keyword=20210262' target='_blank' style='display:none'><img src='https://cdn.magicjun.cn:32323/MJT/moeicon.png' alt='萌ICP' width='25px' height='25px'>萌ICP备20210262号</a>",
+        message: "<a href='https://icp.gov.moe/?keyword=20210262' target='_blank'><img src='https://cdn.magicjun.cn:32323/MJT/moeicon.png' alt='萌ICP' width='25px' height='25px' style='display:inline-block'>萌ICP备20210262号</a>",
         copyright: "Copyright ©2018-2025 幻菌科技 All Right Reserved.",
     },
     // logo
