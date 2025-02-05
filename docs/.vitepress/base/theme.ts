@@ -2,7 +2,7 @@ import type { DefaultTheme } from "vitepress";
 export const themeConfig: DefaultTheme.Config = {
     // https://vitepress.dev/reference/default-theme-config
     footer: {
-        message: "Powered by 幻菌科技方舟智慧服务",
+        message: "<img src='https://cdn.magicjun.cn:32323/MJT/moeicon.png' alt='萌ICP' width='25px' height='25px'><a href='https://icp.gov.moe/?keyword=20210262' target='_blank'>萌ICP备20210262号</a>",
         copyright: "Copyright ©2018-2025 幻菌科技 All Right Reserved.",
     },
     // logo
