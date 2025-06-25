@@ -39,18 +39,6 @@ features:
     title: 智舟生态体系文档
     details: 幻菌科技智舟生态体系技术文档
     link: https://wiki.magicjun.cn/
-  - icon: <img src="https://cdn.magicjun.cn:32323/xhc/logo.ico">
-    title: 星河城官网(服务平台)
-    details: 星河城服务器官方网站
-    link: https://xinghecity.cn/
-  - icon: <img src="https://cdn.magicjun.cn:32323/xhc/icon.ico">
-    title: 星河城智联中心(服务中心)
-    details: 提供玩家/成员端便捷服务
-    link: https://api.xinghecity.cn:55656/
-  - icon: 🔩
-    title: 星河城服务链文档
-    details: 星河城服务链技术文档
-    link: https://wiki.xinghecity.cn/
   - icon: <img src="https://cdn.magicjun.cn:32323/MJT/baidu.ico">
     title: 百毒
     details: 百毒亿下，你就懵圈()
